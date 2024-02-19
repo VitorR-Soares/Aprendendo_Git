@@ -1,0 +1,1 @@
+Ess é um arquivo que te ensina a usar o Git
